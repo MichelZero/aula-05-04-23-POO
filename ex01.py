@@ -1,5 +1,5 @@
 # autores:
-# michel
+# Michel
 
 # data: 05/04/2023  
 
@@ -8,7 +8,7 @@
 
 L1 = ['dez', 'vinte', 'trinta'] # lista de chaves 
 valores = [10, 20, 30] # lista de valores
- 
+
 copact1 = zip(L1, valores) # zip retorna um objeto zip
 compactDic = dict(copact1) # converte o objeto zip em dicionário
 print(compactDic) # imprime o dicionário
