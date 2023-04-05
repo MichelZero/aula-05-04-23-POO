@@ -1,6 +1,10 @@
+# autores:
+# Michel
+
+# data: 05/04/2023  
 
 # Exercício 2: 
-# obtenha a chave de um valor 
+# obtenha a chave do valor 
 # mínimo do seguinte dicionário
 d1 = {
   'física': 82,
