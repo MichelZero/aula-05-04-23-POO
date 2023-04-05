@@ -23,11 +23,13 @@ for i in d1: # percorre o dicionário
 
 
 # encontre o maior valor:
-maiorValor = max(t)
-print(f"o maior valor é: {t}")
+maiorValor = max(t) # encontra o maior valor do dicionário 
+print(f"o maior valor é: {t}") # imprime o maior valor do dicionário 
+
 # encontre a quantidade de elementos
-quantElementos = len(t)
-print(f"a quantidade de elementos é: {t}")
+quantElementos = len(t) # encontra a quantidade de elementos do dicionário 
+print(f"a quantidade de elementos é: {t}") # imprime a quantidade de elementos do dicionário 
+
 # encontre a média Global:
-mediaGlobal = sum(t)/len(t)
-print(f"a média Global é: {mediaGlobal}")
+mediaGlobal = sum(t)/len(t) # encontra a média Global do dicionário 
+print(f"a média Global é: {mediaGlobal}") # imprime a média Global do dicionário 
