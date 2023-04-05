@@ -1,3 +1,9 @@
+# autores:
+# Michel
+
+# data: 05/04/2023  
+
+
 # 3 - dado um dicionário com 3 disciplinas e sua respectiva nota 
 # ex: {'algoritmos': 80, 'física': 90, 'matemática': 70}, 
 # depois criar uma estrutura que encontre dentro do dicionário 
